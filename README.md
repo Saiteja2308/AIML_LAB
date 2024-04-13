@@ -6,5 +6,5 @@
 [lab05][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab05.ipynb]<br>
 [lab06][https://github.com/Saiteja2308/AIML_LAB/blob/main/LAB-06.ipynb]<br>
 [lab07][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab-07.ipynb]<br>
-[lab07][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab08.ipynb]<br>
-[lab07][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab09.ipynb]<br>
+[lab08][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab08.ipynb]<br>
+[lab09][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab09.ipynb]<br>
