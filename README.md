@@ -8,3 +8,4 @@
 [lab07][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab-07.ipynb]<br>
 [lab08][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab08.ipynb]<br>
 [lab09][https://github.com/Saiteja2308/AIML_LAB/blob/main/Lab09.ipynb]<br>
+[lab10][https://github.com/Saiteja2308/AIML_LAB/blob/main/AIML_LAB10.ipynb]<br>
